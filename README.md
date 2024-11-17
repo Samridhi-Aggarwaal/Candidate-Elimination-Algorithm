@@ -24,3 +24,6 @@ For each training example d, do
       • Add to G all minimal specializations h of g such that
         • h is consistent with d, and some member of S is more specific than h
       • Remove from G any hypothesis that is less general than another hypothesis in G
+
+## Reference
+Machine Learning - Tom M. Mitchell - McGraw-Hill, 1997
